@@ -826,9 +826,9 @@ dependencies = [
 
 [[package]]
 name = "tui-bar-graph"
-version = "0.1.0"
+version = "0.1.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "afa653e9303f4bf67b519dcc1bc501c0d764c2dc4f4970119f39926bdf0cd95b"
+checksum = "c3338c5d5ccdbdd524ea0b0aad875da9c3fee7dbfbfb88c691e0a18963fdee16"
 dependencies = [
  "colorgrad",
  "ratatui",
